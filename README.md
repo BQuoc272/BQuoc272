@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BQuoc272
+- 👋 Hi, I’m Ken
 - 👀 I’m interested in free code
 - 🌱 I’m currently learning sth about code
 - 💞️ I’m looking to collaborate with partner
